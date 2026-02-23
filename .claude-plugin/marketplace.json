@@ -14,7 +14,7 @@
       "description": "AI-powered mockup generation and SwiftUI code conversion using Pencil.dev",
       "source": {
         "source": "github",
-        "repo": "kjetilgeirbo/pencil-design-tools"
+        "repo": "kjetilge/pencil-design-tools"
       }
     }
   ]
