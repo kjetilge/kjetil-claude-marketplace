@@ -6,14 +6,16 @@
   },
   "metadata": {
     "description": "Personal Claude Code plugins for design, development, and productivity",
-    "version": "1.0.0",
-    "pluginRoot": "./plugins"
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "pencil-design-tools",
       "description": "AI-powered mockup generation and SwiftUI code conversion using Pencil.dev",
-      "source": "../pencil-design-tools"
+      "source": {
+        "source": "github",
+        "repo": "kjetilgeirbo/pencil-design-tools"
+      }
     }
   ]
 }
