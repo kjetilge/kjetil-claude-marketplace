@@ -1,0 +1,19 @@
+{
+  "name": "kjetil-plugins",
+  "owner": {
+    "name": "Kjetil Golid",
+    "email": "kjetil@example.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins for design, development, and productivity",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "pencil-design-tools",
+      "description": "AI-powered mockup generation and SwiftUI code conversion using Pencil.dev",
+      "source": "../pencil-design-tools"
+    }
+  ]
+}
