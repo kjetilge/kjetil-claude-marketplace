@@ -16,6 +16,14 @@
         "source": "github",
         "repo": "kjetilge/pencil-design-tools"
       }
+    },
+    {
+      "name": "swift-ui-prototyper",
+      "description": "Generate SwiftUI prototypes with stub data and live preview for PRD documentation",
+      "source": {
+        "source": "github",
+        "repo": "kjetilge/swift-ui-prototyper"
+      }
     }
   ]
 }
