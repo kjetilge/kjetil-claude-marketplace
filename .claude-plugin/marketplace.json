@@ -13,7 +13,7 @@
       "name": "pencil-design-tools",
       "description": "AI-powered mockup generation and SwiftUI code conversion using Pencil.dev",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/kjetilge/pencil-design-tools.git"
       }
     },
@@ -21,7 +21,7 @@
       "name": "swift-ui-prototyper",
       "description": "Generate SwiftUI prototypes with stub data and live preview for PRD documentation",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/kjetilge/swift-ui-prototyper.git"
       }
     }
