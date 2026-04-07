@@ -24,6 +24,14 @@
         "source": "url",
         "url": "https://github.com/kjetilge/swift-ui-prototyper.git"
       }
+    },
+    {
+      "name": "superpowers-gstack",
+      "description": "Setup and configure the Superpowers + GStack combined workflow for any project type",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Paretofilm/superpowers-gstack.git"
+      }
     }
   ]
 }
