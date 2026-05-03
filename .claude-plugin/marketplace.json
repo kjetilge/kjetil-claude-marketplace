@@ -32,6 +32,14 @@
         "source": "url",
         "url": "https://github.com/Paretofilm/superpowers-gstack.git"
       }
+    },
+    {
+      "name": "macos-distribution",
+      "description": "End-to-end Developer ID signing, notarization, stapling, and packaging (DMG/ZIP) for macOS apps distributed outside the Mac App Store",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kjetilge/macos-distribution.git"
+      }
     }
   ]
 }
